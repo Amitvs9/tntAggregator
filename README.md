@@ -23,7 +23,7 @@ Java 8
 spring-boot
 maven
 
-# improvement that can be done but due to lack of time not done.
-  There are some reducndent code that can be optimize .
+#Pending
+  There are some reducndent code that can be refactor & optimize.
   Junit test cases .
 
