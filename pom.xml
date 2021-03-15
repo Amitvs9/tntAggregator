@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tnt.aggregator</groupId>
-	<artifactId>TntAggregator</artifactId>
+	<artifactId>tntAggregator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TntAggregator</name>
+	<name>tntAggregator</name>
 	<description>Aggregation of APIs</description>
 	<properties>
 		<java.version>8</java.version>
