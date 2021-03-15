@@ -1,6 +1,6 @@
 # TntAssignement
 
-# to run application using docker
+# To run application using docker
  If you have docker installed and, you do not need to be super user to run docker command simply run the following command  
   ./run.sh
 
@@ -10,7 +10,7 @@
 java -jar target/target/tntAggregator-0.0.1-SNAPSHOT.jar
 
 
-# to stop application
+# To stop application
   If you run the application with docker then simply run following command:
 
   ./stop.sh
